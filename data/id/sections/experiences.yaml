@@ -1,0 +1,37 @@
+section:
+  name: Pengalaman Kerja
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+
+experiences:
+- company:
+    name: Pemerintah Kota Surabaya
+    url: "https://surabaya.go.id"
+    location: Surabaya
+    overview: Pemerintahan untuk melayani
+  positions:
+  - designation: IT Support
+    start: Jan 2020
+    end: Sekarang
+    # hapus baris "end" jika masih bekerja di sana (otomatis tertulis "Sekarang")
+    responsibilities:
+    - Mengelola Data Center di 3 lokasi
+    - Mengelola server, storage, ups dan perangkat pendukungnya
+    - Melakukan monitoring rutin data center sesuai jadwal yang telah ditetapkan
+    - Membuat vm server dan membantu deployment aplikasi ke lingkungan production
+    - Membuat laporan evaluasi kegiatan
+
+- company:
+    name: PT. Icon+
+    url: "https://www.plniconplus.co.id/"
+    location: Cinere, Depok
+    overview: Internship devisi configuration management
+  positions:
+  - designation: Internship
+    start: Jun 2018
+    end: Agus 2018
+    responsibilities:
+    - Memasukan data trafik client ke MRTG untuk monitoring bandwidth
+    - Belajar instalasi dan konfigurasi software monitoring zabbix

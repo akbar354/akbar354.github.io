@@ -1,0 +1,16 @@
+name: "Nasrudin Akbar Alfauzani"
+nickname: "Nasrudin"
+greeting: "Halo, saya"
+image: "images/author/profile.png"   # ganti dengan fotomu (taruh di assets/images/author/)
+contactInfo:
+  email: "email@contoh.com"
+  phone: "+62 813 8823 3985"
+  github: akbar354
+  linkedin: Nasrudin Akbar Alfauzani
+
+# Teks yang berganti-ganti (animasi mengetik) di beranda
+summary:
+  - Saya seorang IT Support
+  - Ini adalah blog pribadi saya
+  - Saya terus belajar hal baru
+  - Saya berbagi catatan yang sudah berhasil saya coba

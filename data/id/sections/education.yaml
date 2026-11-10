@@ -1,0 +1,19 @@
+section:
+  name: Pendidikan
+  id: education
+  template: sections/education.html
+  enable: true
+  weight: 4
+  showOnNavbar: true
+
+degrees:
+- name: D4 Teknik Telekomunikasi
+  icon: fa-graduation-cap
+  timeframe: 2015 - 2019
+  institution:
+    name: Politeknik Elektronika Negeri Surabaya (PENS)
+    url: "https://www.pens.ac.id/"
+  grade:
+    scale: IPK
+    achieved: 3.2
+    outOf: 4

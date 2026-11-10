@@ -1,0 +1,30 @@
+section:
+  name: Tentang
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+designation: IT Support
+company:
+  name: Government
+  #url: "https://www.contoh.com"
+
+summary: 'Halo Everybody, Saya Nasrudin seorang IT Support yang bekerja di salah satu Government. Saya diberi tugas pada ruang lingkup data center, hardware server & storage, virtualisasi, dan deploy aplikasi'
+
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "nasrun.akbar21@gmail.com"
+- name: GitHub
+  icon: "fab fa-github"
+  url: "https://github.com/akbar354"
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://linkedin.com/in/NasrudinAkbarAlfauzani"
+
+# Tombol unduh CV. File ada di folder static/files/
+resourceLinks:
+- title: "Unduh CV"
+  url: "files/cv.pdf"
