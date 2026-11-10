@@ -15,10 +15,10 @@ skills:
   summary: "Terbiasa memakai terminal dan mengelola server dasar."
 - name: Virtualisasi
   logo: /images/sections/skills/vm.png
-  summarry: "Terbiasa menggunakan platform virtualisasi seperti VMWare dan Proxmox"
+  summary: "Terbiasa menggunakan platform virtualisasi seperti VMWare dan Proxmox"
 - name: Hardware
   logo: /images/sections/skills/datacenter.png
-  summarry: "Mengelola hardware di ruang lingkup data center seperti server, storage, san switch, UPS dan lainnya"
+  summary: "Mengelola hardware di ruang lingkup data center seperti server, storage, san switch, UPS dan lainnya"
 #name: Docker
   #logo: /images/sections/skills/docker.svg
   #summary: "Mengemas aplikasi ke dalam kontainer agar mudah dijalankan di mana saja."
