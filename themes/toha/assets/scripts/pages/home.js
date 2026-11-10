@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   let typeItInstance = new TypeIt('#typed', {
     speed: 100,
-    deleteSpeed: 80,
+    deleteSpeed: 30,
     lifeLike: false,
     breakLines: false,
     cursorChar: "|",
