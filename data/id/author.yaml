@@ -1,7 +1,7 @@
 name: "Nasrudin Akbar Alfauzani"
 nickname: "Nasrudin"
 greeting: "Halo, saya"
-image: "images/author/profile.png"   # ganti dengan fotomu (taruh di assets/images/author/)
+image: "images/author/computer.png"   # ganti dengan fotomu (taruh di assets/images/author/)
 contactInfo:
   email: "nasrun.akbar21@gmail.com"
   phone: "+62 813 8823 3985"
