@@ -9,8 +9,8 @@ document.addEventListener('DOMContentLoaded', () => {
   const strings = Array.from($ul).map($el => $el.textContent)
 
   let typeItInstance = new TypeIt('#typed', {
-    speed: 100,
-    deleteSpeed: 30,
+    speed: 150,
+    deleteSpeed: 100,
     lifeLike: false,
     breakLines: false,
     cursorChar: "|",
