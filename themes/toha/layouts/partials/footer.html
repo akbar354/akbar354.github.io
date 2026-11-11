@@ -48,7 +48,7 @@
   {{ end }}
 
   {{/*  footer logos  */}}
-  {{ $themeLogo := "/images/donut.png" }}
+  {{ $themeLogo := "/images/theme-logo.png" }}
   {{ $hugoLogo := "/images/hugo-logo.svg" }}
 
   {{/* resize the logos. don't resize svg because it is not supported */}}
@@ -197,10 +197,9 @@
     <div class="container">
       <div class="row text-start">
         <div class="col-md-4">
-          <!--<a id="theme" href="https://github.com/hugo-toha/toha" target="_blank" rel="noopener">-->
-            <img src="{{ $themeLogo }}" alt="Donut Theme Logo">
-            
-          </a>
+          <!--<a id="theme" href="https://github.com/hugo-toha/toha" target="_blank" rel="noopener">
+            <img src="{{ $themeLogo }}" alt="Toha Theme Logo">
+          </a>-->
         </div>
         <div class="col-md-4 text-center">{{ $copyrightNotice | markdownify }}</div>
         <div class="col-md-4 text-end">
